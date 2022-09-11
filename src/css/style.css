@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;600&display=swap");
+
+body {
+  background: hsl(257, 40%, 49%) url(https://digitshack.com/codepen/mentor7/bg-desktop.svg) no-repeat center;
+  background-size: cover;
+  min-height: 100vh;
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  max-width: 1320px;
+  margin: 0 auto;
+  height: 100vh;
+}
+
+.container .sessao-principal {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 90%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin: 0 2rem;
+}
+
+.container .sessao-principal .logo a img {
+  width: 170px;
+  padding-bottom: 20px;
+}
+
+.container .sessao-principal .ilustracao-e-texto {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.container .sessao-principal .ilustracao-e-texto .texto-principal h1 {
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  font-size: 36px;
+  line-height: 1.7;
+  margin-bottom: 20px;
+}
+
+.container .sessao-principal .ilustracao-e-texto .texto-principal p {
+  color: #fff;
+  line-height: 1.8;
+  margin-bottom: 30px;
+}
+
+.container .sessao-principal .ilustracao-e-texto .texto-principal .btn-register {
+  display: inline-block;
+  background: #fff;
+  padding: 13px 50px;
+  border-radius: 25px;
+  text-decoration: none;
+  border-style: none;
+  box-shadow: 0 8px 17px -8px rgba(0, 0, 0, 0.8);
+  transition: all 0.3s ease-in-out;
+}
+
+.container .sessao-principal .ilustracao-e-texto .texto-principal .btn-register:hover {
+  background-color: hsl(300, 69%, 71%);
+  border-color: hsl(300, 69%, 71%);
+  color: white;
+}
+
+.container .sessao-principal .redes-sociais {
+  text-align: right;
+}
+
+.container .sessao-principal .redes-sociais a i {
+  color: #fff;
+  position: relative;
+  font-size: 18px;
+  transition: all 0.3s ease;
+}
+
+.container .sessao-principal .redes-sociais a:not(:first-child) {
+  margin-left: 2rem;
+}
+
+.container .sessao-principal .redes-sociais a:nth-child(2) {
+  margin-left: 2.4rem;
+}
+
+.container .sessao-principal .redes-sociais a i::after {
+  content: "";
+  position: absolute;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  border: 2px solid white;
+  left: -14px;
+  bottom: -13px;
+  transition: all 0.3s ease-in-out;
+}
+
+.container .sessao-principal .redes-sociais a:hover i {
+  color: hsl(300, 69%, 71%);
+}
+
+.container .sessao-principal .redes-sociais a i:hover::after {
+  border-color: hsl(300, 69%, 71%);
+}
