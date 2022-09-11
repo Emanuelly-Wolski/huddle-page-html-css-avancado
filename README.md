@@ -24,6 +24,7 @@ Além de exercitar as habilidades de planejamento, Clean Code, Responsividade co
 ## Material de apoio 📚
 
 1 - Na pasta "Design" há imagens dos layouts para desktop e mobile para facilitar o desenvolvimento do projeto.
+
 2 - O arquivo "style-guide.md" contém as informações fornecidas pelo Frontend Mentor para estilização das fontes, como tamanho, cores e ademais.
   
 ## Visualização ✨
