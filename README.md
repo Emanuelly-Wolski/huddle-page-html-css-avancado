@@ -29,6 +29,7 @@ Além de exercitar as habilidades de planejamento, Clean Code, Responsividade co
   
 ## Visualização ✨
 A página está responsiva, caso queira navegar nela em seu desktop ou celular, basta acessar o seguinte link:
+https://emanuelly-wolski.github.io/huddle-page-html-css-avancado/
 
 ## Observação importante 📝
 Este desafio foi proposto no módulo de HTML e CSS Avançado do curso DevQuest voltado para Desenvolvimento Web Front-end.
