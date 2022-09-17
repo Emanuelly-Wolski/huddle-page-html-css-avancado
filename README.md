@@ -17,9 +17,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.s
 
 ## Prática ❗
 
-Neste projeto pude colocar em prática conhecimentos de HTML e CSS avançado com display flex, juntamente com as suas respectivas propriedades. 
+Neste projeto pude colocar em prática conhecimentos de HTML e CSS avançado com Display flex, Margin, Border, Padding, entre outros, juntamente com as suas respectivas propriedades. 
 
-Além de exercitar as habilidades de planejamento, Clean Code, Responsividade com o uso de Medias queries e versionamento com o Git.
+Além de exercitar as habilidades de planejamento, Clean Code, Responsividade com o uso de Medias queries, importação de fontes e versionamento com o Git.
 
 ## Material de apoio 📚
 
